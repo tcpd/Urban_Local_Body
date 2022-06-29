@@ -21,5 +21,5 @@ The Urban Local Body dataset consists of election data pertaining to Urban Local
 
 Acknowledgments: We thank our interns - Dipanita Malik, Aninthitha Nath, Abhishek Nayak, and Rikit Shahi - who provided invaluable assistance to the project, and Priyamvada Trivedi for her feedback.
 
-<b><i>This dataset is a work in progress and is planned to updated to incorporate other Indian states and election years. We request you check this Github repository for latest version of dataset and codebook. Another way to remain informed with major project updates is to follow us on [Twitter](https://twitter.com/TCPD_Ashoka) or/and subscribe to our monthly [Newsletter](https://tcpd.ashoka.edu.in/newsletters/).</b></i>
+<b><i>This dataset is a work in progress and is planned to be updated to incorporate other Indian states and election years. We request you check this Github repository for latest version of dataset and codebook. Another way to remain informed with major project updates is to follow us on [Twitter](https://twitter.com/TCPD_Ashoka) or/and subscribe to our monthly [Newsletter](https://tcpd.ashoka.edu.in/newsletters/).</b></i>
 
