@@ -3,8 +3,8 @@
 Public repository for public data of Municipal Elections for Urban Local Bodies
 
 this repository contains following files:
-1. TCPD_CASI_ULB_v1.0.csv : election data for Urban Local Bodies
-2. TCPD_CASI_ULB_Codebook_v1.0.pdf : documentation and detailed description of variables in the dataset.
+1. tcpd_casi_ulb_v1.0.csv : election data for Urban Local Bodies
+2. tcpd_casi_ulb_codebook_v1.0.pdf : documentation and detailed description of variables in the dataset.
 
 
 This dataset consists of information on the Urban Local Body Elections for 8 Indian States - Bihar, Kerala, Madhya Pradesh, Maharashtra, Rajasthan, Telangana, West Bengal, and Uttar Pradesh. This dataset has been built through the collaborative efforts of the Trivedi Centre for Political Data, Ashoka University, and the Center for the Advanced Study of India, University of Pennsylvania.
